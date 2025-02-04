@@ -56,13 +56,13 @@ I'm a software engineer. I love building full-stack web applications, mobile app
 
 ## My Github Stats 🦸
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ted1104&show_icons=true&theme=radical) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=teddy-walter&show_icons=true&theme=radical) -->
 
-![](https://github-readme-stats.vercel.app/api?username=ted1104&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ted1104&layout=compact&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=teddy-walter&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddy-walter&layout=compact&theme=onedark)
 
 ## Visitor count
 
-<img src="https://profile-counter.glitch.me/ted1104/count.svg" />
+<img src="https://profile-counter.glitch.me/teddy-walter/count.svg" />
 
-<!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=ted1104'></p> -->
+<!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=teddy-walter'></p> -->
